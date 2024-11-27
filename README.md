@@ -1,54 +1,40 @@
 Privacy Policy for AI Plant Identifier: AI App
 Effective Date: 27 November 2024
 
-At AI Plant Identifier: AI App (“we”, “our”, or “us”), we are committed to respecting and protecting your privacy. This Privacy Policy describes how we collect, use, and safeguard the data you share with us when you use our app.
+At AI Plant Identifier: AI App (“we,” “our,” or “us”), we are committed to respecting and protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app.
 
-By using this app, you agree to the collection and use of information in accordance with this Privacy Policy. Please review it carefully before use.
+By using this app, you agree to the collection and use of information as described in this Privacy Policy. Please review it carefully.
 
 Information We Collect
-We collect the following types of information:
+We may collect the following types of information:
 
 Plant Image Data:
-When you upload a plant image, it is processed to identify the plant and provide detailed information, such as the plant's name, family, origin, growth characteristics, and care tips.
+When you upload a plant image, it is processed to identify the plant and provide details such as the plant's name, family, origin, growth characteristics, and care tips.
 
 Advertising Data:
-Our app uses third-party services to display ads. they collects data to personalize ads, but if your app is aimed at children under 13, we will only serve non-personalized ads in compliance with COPPA.
+Our app uses Google AdMob to display advertisements. AdMob may collect certain information, such as device identifiers and app activity, to personalize ads. For users under 13, only non-personalized ads are shown to comply with applicable regulations.
 
 How We Use Your Information
 The information we collect is used for the following purposes:
 
-Plant Identification:
-The images you upload are processed to identify the plant and provide relevant information.
-
-AI Plant Advisor:
-Text-based queries help provide you with personalized plant answers.
-
-Advertising:
-Google AdMob serves ads based on usage data. For users under 13, AdMob will display non-personalized ads.
-
-App Improvement:
-Usage data helps us analyze how the app is being used and improve its features.
+Plant Identification: To process the images you upload and provide relevant information.
+AI Plant Advisor: To respond to text-based queries with personalized plant answers.
+Advertising: To display advertisements via Google AdMob.
 
 Third-Party Services
-Our app uses third-party services, such as:
-
-Google AdMob for advertisements.
-These third-party services may collect data to enhance their services. You can review their privacy policies:
-
-Google AdMob Privacy Policy
-These services may process your data outside of your country, and we ensure compliance with applicable data protection laws.
+We use third-party services, such as Google AdMob, to deliver advertisements. These services may collect and process data in accordance with their own privacy policies. You can review AdMob's data practices in their Privacy Policy.
 
 Data Transfers
-Your data may be transferred to third-party services for processing. We ensure that such transfers comply with data protection regulations.
+Your data may be transferred to third-party services for processing. We ensure compliance with applicable data protection laws for such transfers.
 
 Security
-We use commercially acceptable measures to protect your data. However, no transmission method over the internet is fully secure, and we cannot guarantee complete security.
+We implement commercially reasonable measures to protect your data. However, no method of data transmission over the internet is completely secure, and we cannot guarantee absolute security.
 
 Links to Other Sites
-Our app may contain links to external websites. Please note, we are not responsible for the content or privacy practices of these third-party sites. We recommend reviewing their privacy policies.
+Our app may contain links to external websites. We are not responsible for the content or privacy practices of these third-party sites. We encourage you to review their privacy policies.
 
-Children's Privacy
-Our app is not directed at children under 13. We do not knowingly collect personal data from children under 13. If we discover that such information has been collected, we will delete it.
+Children’s Privacy
+Our app is not directed at children under 13. We do not knowingly collect personal data from children under 13. If we discover such data has been collected, we will delete it. Non-personalized ads are displayed for users under 13, in compliance with COPPA.
 
 If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately at oluavininfo@gmail.com, and we will take steps to delete this information from our servers.
 
