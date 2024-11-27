@@ -1,72 +1,65 @@
-# AI-Plant-Identifier-Privacy-Policy
-
 Privacy Policy for AI Plant Identifier: AI App
-Effective Date: 22/11/22024
+Effective Date: 27 November 2024
 
-At AI Plant Identifier: AI App ("we", "our", or "us"), we prioritize your privacy and are committed to protecting the information you share with us. This Privacy Policy describes how we collect, use, and safeguard your information when you use our app.
+At AI Plant Identifier: AI App (“we”, “our”, or “us”), we are committed to respecting and protecting your privacy. This Privacy Policy describes how we collect, use, and safeguard the data you share with us when you use our app.
 
-1. Information We Collect
+By using this app, you agree to the collection and use of information in accordance with this Privacy Policy. Please review it carefully before use.
+
+Information We Collect
 We collect the following types of information:
 
-Plant Image Data: When you upload a plant image (either through the camera or gallery), the image is sent to the Gemini API for plant identification. This image data is processed to return information about the plant, including its name, care instructions, and other relevant plant details.
+Plant Image Data:
+When you upload a plant image, it is processed to identify the plant and provide detailed information, such as the plant's name, family, origin, growth characteristics, and care tips.
 
-User Queries: If you interact with the Groq AI feature for plant care advice, we collect your text-based queries and responses from the AI. This allows you to receive guidance and answers about plant care.
+Advertising Data:
+Our app uses Google AdMob to display ads. AdMob collects data to personalize ads, but if your app is aimed at children under 13, AdMob will only serve non-personalized ads in compliance with COPPA.
 
-Usage Data: We collect non-personally identifiable data, such as device type, operating system, and app usage patterns. This helps us improve the functionality of the app.
+How We Use Your Information
+The information we collect is used for the following purposes:
 
-Advertising Data: When you interact with ads, AdMob collects data about your device and usage patterns to show relevant ads.
+Plant Identification:
+The images you upload are processed to identify the plant and provide relevant information.
 
-2. How We Use Your Information
-We use your information for the following purposes:
+AI Plant Advisor:
+Text-based queries help provide you with personalized plant answers.
 
-Plant Identification: The images you upload are processed by Gemini API to identify plants and provide care instructions.
+Advertising:
+Google AdMob serves ads based on usage data. For users under 13, AdMob will display non-personalized ads.
 
-AI Plant Care Advisor: Your text-based queries to the Groq AI are used to provide personalized plant care advice.
+App Improvement:
+Usage data helps us analyze how the app is being used and improve its features.
 
-Ads: We display ads through Google AdMob. These ads may be personalized based on your usage data and interactions within the app.
+Third-Party Services
+Our app uses third-party services, such as:
 
-App Improvement: We use usage data to improve the app’s features and functionality.
+Google AdMob for advertisements.
+These third-party services may collect data to enhance their services. You can review their privacy policies:
 
-3. Data Transfers
-Your data (images and text-based queries) may be transferred to third-party services, including:
+Google AdMob Privacy Policy
+These services may process your data outside of your country, and we ensure compliance with applicable data protection laws.
 
-Gemini API: Processes plant images to provide information about plant identification.
+Data Transfers
+Your data may be transferred to third-party services for processing. We ensure that such transfers comply with data protection regulations.
 
-Groq AI: Provides text-based plant care advice via AI interactions.
+Security
+We use commercially acceptable measures to protect your data. However, no transmission method over the internet is fully secure, and we cannot guarantee complete security.
 
-Google AdMob: Displays ads and collects data for ad personalization.
+Links to Other Sites
+Our app may contain links to external websites. Please note, we are not responsible for the content or privacy practices of these third-party sites. We recommend reviewing their privacy policies.
 
-These services may process your data outside of your country, and we ensure that transfers comply with applicable data protection laws by using legal mechanisms like the European Commission's Standard Contractual Clauses.
+Children's Privacy
+Our app is not directed at children under 13. We do not knowingly collect personal data from children under 13. If we discover that such information has been collected, we will delete it.
 
-4. Security Measures
-We implement industry-standard security measures to protect your personal information during transmission and storage. However, no method of data transmission or electronic storage is entirely secure, and we cannot guarantee complete security.
+If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately at oluavininfo@gmail.com, and we will take steps to delete this information from our servers.
 
-5. Third-Party Services
-We use third-party services to enhance the functionality of our app, such as:
+For users under 13, we ensure that only non-personalized ads are served in compliance with the Children's Online Privacy Protection Act (COPPA).
 
-Gemini API: For plant image identification.
+Changes to This Privacy Policy
+We may update this Privacy Policy periodically. The most recent changes will be reflected in the “Effective Date” at the top of the document. We encourage you to review this privacy policy regularly.
 
-Groq AI: For providing text-based plant care advice.
+Contact Us
+For questions regarding this Privacy Policy, contact us at:
 
-Google AdMob: For serving advertisements within the app.
+Email: oluavininfo@gmail.com
 
-Each of these third-party services has its own privacy policy, and we recommend reviewing their terms for further information on how they handle your data.
 
-6. Your Rights
-As a user, you have rights over your data, including:
-
-Access to Your Data: You can request to view or update your personal information.
-
-Data Deletion: You can request to delete any data you have provided.
-
-Opt-Out of Ads: You can opt-out of personalized ads by adjusting your device settings or through AdMob's opt-out mechanisms.
-
-7. Children’s Privacy
-Our app is not intended for children under 13, and we do not knowingly collect personal information from children. If we discover that we have collected such information, we will delete it as soon as possible.
-
-8. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be reflected in the “Effective Date” at the top of this document. We encourage you to review this policy periodically.
-
-9. Contact Us
-For any questions or concerns about this Privacy Policy or our practices, please contact us at:
-oluavininfo@gmail.com
