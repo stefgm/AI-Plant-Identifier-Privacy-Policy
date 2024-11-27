@@ -12,17 +12,22 @@ Plant Image Data:
 When you upload a plant image, it is processed to identify the plant and provide details such as the plant's name, family, origin, growth characteristics, and care tips.
 
 Advertising Data:
-Our app uses Google AdMob to display advertisements. AdMob may collect certain information, such as device identifiers and app activity, to personalize ads. For users under 13, only non-personalized ads are shown to comply with applicable regulations.
+We use third-party services to display advertisements. These services may collect certain information, such as device identifiers and app activity, to personalize ads. For users under 13, only non-personalized ads are shown to comply with applicable regulations.
 
 How We Use Your Information
 The information we collect is used for the following purposes:
 
-Plant Identification: To process the images you upload and provide relevant information.
-AI Plant Advisor: To respond to text-based queries with personalized plant answers.
-Advertising: To display advertisements via Google AdMob.
+Plant Identification:
+To process the images you upload and provide relevant information.
 
-Third-Party Services
-We use third-party services, such as Google AdMob, to deliver advertisements. These services may collect and process data in accordance with their own privacy policies. You can review AdMob's data practices in their Privacy Policy.
+AI Plant Advisor:
+To respond to text-based queries with personalized plant answers.
+
+Advertising:
+To display advertisements and ensure compliance with regulatory requirements.
+
+Advertising Data:
+Our app uses third-party services to display advertisements. These services may collect certain data, such as device identifiers and app activity, to personalize ads. For users under 13, only non-personalized ads will be shown, unless parental consent has been obtained to display personalized ads in compliance with applicable regulations.
 
 Data Transfers
 Your data may be transferred to third-party services for processing. We ensure compliance with applicable data protection laws for such transfers.
