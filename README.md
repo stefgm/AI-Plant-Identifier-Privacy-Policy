@@ -12,7 +12,7 @@ Plant Image Data:
 When you upload a plant image, it is processed to identify the plant and provide detailed information, such as the plant's name, family, origin, growth characteristics, and care tips.
 
 Advertising Data:
-Our app uses Google AdMob to display ads. AdMob collects data to personalize ads, but if your app is aimed at children under 13, AdMob will only serve non-personalized ads in compliance with COPPA.
+Our app uses third-party services to display ads. they collects data to personalize ads, but if your app is aimed at children under 13, we will only serve non-personalized ads in compliance with COPPA.
 
 How We Use Your Information
 The information we collect is used for the following purposes:
