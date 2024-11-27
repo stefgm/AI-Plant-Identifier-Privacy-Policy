@@ -12,7 +12,7 @@ Plant Image Data:
 When you upload a plant image, it is processed to identify the plant and provide details such as the plant's name, family, origin, growth characteristics, and care tips.
 
 Advertising Data:
-We use third-party services to display advertisements. These services may collect certain information, such as device identifiers and app activity, to personalize ads. For users under 13, only non-personalized ads are shown to comply with applicable regulations.
+Our app uses third-party services to display advertisements, such as Google AdMob. AdMob may collect certain data, including device identifiers and app activity, to personalize ads. For users under 13, non-personalized ads will be shown by default unless parental consent has been obtained, in which case personalized ads may be displayed, in compliance with applicable regulations.
 
 How We Use Your Information
 The information we collect is used for the following purposes:
